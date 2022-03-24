@@ -1,2 +1,0 @@
-# SpaceAvalanche
-GitHub Pages
